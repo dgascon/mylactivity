@@ -1,0 +1,5 @@
+{
+  "token": "TOKEN_HERE",
+  "prefix" : "--",
+  "delete_time": 5000
+}
